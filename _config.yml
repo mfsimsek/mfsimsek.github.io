@@ -75,22 +75,22 @@ author:
 footer:
   links:
     - label: "Bluesky"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://bsky.app/"
+      icon: "fab fa-fw fa-bsky-square"
+      url: "https://bsky.app/pbodslab.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/mfsimsek"
 
 defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: members
     values:
-      layout: single
-      author_profile: true
+      layout: splash
+      author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -100,10 +100,14 @@ defaults:
     values:
       layout: splash
       author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /projects/
 tag_archive:
   type: liquid
   path: /tags/
