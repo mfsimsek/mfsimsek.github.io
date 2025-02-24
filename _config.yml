@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Physical Biology of Developing Systems Laboratory"
+  name   : "pBoDS Lab"
   avatar : "/assets/images/lablogo_new.png"
   bio    : "We are a diverse group of undergraduate and graduate researchers inquiring about the conserved mechanisms of sequential segmentation in vertebrate embryos and design principles of morphogen positional information in embryos. We are located at <a href="http://biology.mcmaster.ca" target="_blank">McMaster University</a>."
   links:
