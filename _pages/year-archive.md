@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
-permalink: /posts/
-layout: posts
-author_profile: true
+title: "Lab Members"
+permalink: /members/
+layout: members
+author_profile: false
 ---
