@@ -44,11 +44,11 @@ jobs:
      #     cache-version: 1 # Increment this number if you need to re-download cached gems
 
      - name: Setup Ruby
-     - uses: ruby/setup-ruby@v1
+      uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-      - run: bundle exec rake
+      run: bundle exec rake
       
       - name: Setup Pages
         id: pages
