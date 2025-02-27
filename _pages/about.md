@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-At pBoDS Lab, we aim to understand space and time mechanisms of patterning in vertebrate embryonic tissues. For this purpose, we combine 1- quantitative state-of-art microscopy, 2- single cell level analysis of signal dynamics, and 3- data-informed predictive modeling of systems level biophysics.
+At pBoDS Lab, we aim to understand space and time mechanisms of patterning in vertebrate embryonic tissues. For this purpose, we combine 1- quantitative state-of-the-art microscopy, 2- single cell level analysis of signal dynamics, and 3- data-informed predictive modeling of systems level biophysics.
 
 Zebrafish with its translucent, accessible, and multiplexed early embryonic development as well as tractable genetics is our favorite model organism!
 
