@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: pBoDS Lab 
+email: mfsimsek@mcmaster.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+ Physical biology of developing systems lab @McMaster
+twitter_username: pbodslab.bluesky.social
+github_username: mfsimsek
 minimal_mistakes_skin: default
 search: true
 
@@ -58,34 +56,28 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "pBoDS Lab"
+  avatar : "/assets/images/lablogo_new_square.png"
+  bio    : " We are a group of researchers interested in quantitative architecture of cell signalling during early embryo development."
   links:
-    - label: "Website"
+    - label: "Department"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+      url: "https://biology.mcmaster.ca"
+    - label: "Bluesky"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://bsky.app/pbodslab.bluesky.social/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/mfsimsek/"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "Bluesky"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://bsky.app/pbodslab.bluesky.social/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/mfsimsek/"
 
 defaults:
   # _posts
@@ -93,7 +85,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: true
@@ -104,7 +96,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: single
+      layout: splash
       author_profile: true
 
 category_archive:
