@@ -1,19 +1,19 @@
 ---
-title: "Splash Page"
+title: "Projects"
 layout: splash
 permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/lablogo_new.png
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/photo-collage.png
   actions:
     - label: "Projects"
       url: "https://physicalbiology.ca/projects"
-  caption: "Photo credit: [**MFS**](https://physicalbiology.ca)"
+  {% caption: "Pillar of creation: [**JWST**] (https://webbtelescope.org/contents/media/images/2022/052/01GF423GBQSK6ANC89NTFJW8VM)"
 excerpt: "Signalling architecture of early vertebrate embryo patterning."
 intro: 
-  - excerpt: 'We are interested in understanding the design principles of morphogen signalling and conserved mechanisms of sequential embryo patterning. `type="center"`'
+  - excerpt: 'We are interested in understanding the design principles of morphogen signalling and conserved mechanisms of sequential embryo patterning.'
 feature_row:
   - image_path: assets/images/pic01.jpg
     alt: "Somites and notochord"
