@@ -1,6 +1,9 @@
+header:
+  image: /assets/images/lablogo_new.png
+
 main:
   - title: "Projects"
-    url: /projects/
+    url: /splash-page/
   - title: "Members"
     url: /members/
   - title: "Tags"
@@ -8,4 +11,3 @@ main:
   - title: "About"
     url: /about/
 
-url: /splash-page/
