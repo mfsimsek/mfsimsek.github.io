@@ -5,12 +5,12 @@ permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.7"
-  overlay_image: /assets/images/photo-collage.png
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/photocollage.png
   actions:
     - label: "Projects"
       url: "https://physicalbiology.ca/projects"
-      caption: "Pillars of creation [**JWST**] (https://webbtelescope.org/contents/media/images/2022/052/01GF423GBQSK6ANC89NTFJW8VM)"
+      caption: "Pillars of creation: [**JWST**] (https://webbtelescope.org/contents/media/images/)"
 excerpt: "Signalling architecture of early vertebrate embryo patterning."
 intro: 
   - excerpt: 'We are interested in understanding the design principles of morphogen signalling and conserved mechanisms of sequential embryo patterning.'
