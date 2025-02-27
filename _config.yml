@@ -83,7 +83,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: projects
     values:
       layout: splash
       author_profile: true
@@ -101,7 +101,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /members/
 tag_archive:
   type: liquid
   path: /tags/
