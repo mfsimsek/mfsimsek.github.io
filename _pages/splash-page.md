@@ -1,11 +1,11 @@
 ---
-title: "Projects"
+title: "Physical biology of developing systems"
 layout: splash
 permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0.7"
   overlay_image: /assets/images/photo-collage.png
   actions:
     - label: "Projects"
