@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "pBoDS Lab"
-  avatar : "/assets/images/lablogo_new_square.png"
+  avatar : "/assets/images/lablogo_new_square.PNG"
   bio    : " We are a group of researchers interested in quantitative architecture of cell signalling during early embryo development."
   links:
     - label: "Department"
