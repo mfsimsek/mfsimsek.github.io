@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Projects"
       url: "https://physicalbiology.ca/projects"
-  {% caption: "Pillar of creation: [**JWST**] (https://webbtelescope.org/contents/media/images/2022/052/01GF423GBQSK6ANC89NTFJW8VM)"
+   caption: "Pillar of creation: [**JWST**] (https://webbtelescope.org/contents/media/images/2022/052/01GF423GBQSK6ANC89NTFJW8VM)"
 excerpt: "Signalling architecture of early vertebrate embryo patterning."
 intro: 
   - excerpt: 'We are interested in understanding the design principles of morphogen signalling and conserved mechanisms of sequential embryo patterning.'
