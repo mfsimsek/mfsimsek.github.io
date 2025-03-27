@@ -5,8 +5,8 @@ permalink: /members/
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/pbodslabFall2024.jpg
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/pbodslabF2024.jpg
   actions:
     - label: "Lab Members"
       url: "https://physicalbiology.ca/members"
