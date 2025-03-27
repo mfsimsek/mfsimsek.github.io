@@ -1,5 +1,5 @@
 ---
-title: "Post: Addgene Plasmid Database"
+title: "Addgene Plasmid Database"
 categories:
   - Blog
 tags:

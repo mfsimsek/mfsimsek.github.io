@@ -1,5 +1,5 @@
 ---
-title: "Post: Embryonic Development Map"
+title: "Embryonic Development Map"
 categories:
   - Blog
 tags:

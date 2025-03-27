@@ -1,5 +1,5 @@
 ---
-title: "Post: Ensembl Genome Browser"
+title: "Ensembl Genome Browser"
 categories:
   - Blog
 tags:

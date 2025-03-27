@@ -1,5 +1,5 @@
 ---
-title: "Post: Basic Local Alignment Search Tool"
+title: "Basic Local Alignment Search Tool"
 categories:
   - Blog
 tags:
