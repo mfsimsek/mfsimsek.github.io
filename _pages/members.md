@@ -11,7 +11,6 @@ header:
     - label: "Lab Members"
       url: "https://physicalbiology.ca/members"
       caption: "Fall 2024 Lab photo in front of [**Hamilton Hall**] (https://facilities.mcmaster.ca/building/hamilton-hall/)"
-{% excerpt: "Signalling architecture of early vertebrate embryo patterning." //intro:   //- excerpt: 'We are interested in understanding the design principles of morphogen signalling and conserved mechanisms of sequential embryo patterning.'%}
 feature_row:
 - image_path: assets/images/pic03.jpg
     alt: "M. Fethullah Simsek"
