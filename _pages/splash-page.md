@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/photocollage.png
   actions:
     - label: "Projects"
-      url: "https://physicalbiology.ca/projects"
+      url: "https://physicalbiology.ca/splash-page"
       caption: "Pillars of creation: [**JWST**] (https://webbtelescope.org/contents/media/images/)"
 excerpt: "Signalling architecture of early vertebrate embryo patterning."
 intro: 
@@ -19,6 +19,9 @@ feature_row:
     alt: "Somites and notochord"
     title: "Design Principles of Somitogenesis"
     excerpt: "How do vertebrate embryo cells make repetitive decisions? What controls the robustness of embryo **patterning** during somite segmentation?"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/pic02.jpg
     alt: "ERK signal in tailbud"
     title: "Systems Control of Morphogen Signalling"
