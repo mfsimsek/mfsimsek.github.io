@@ -16,8 +16,8 @@ feature_row:
     alt: "M. Fethullah Simsek"
     title: "M. Fethullah Simsek"
     excerpt: " <p><b> Assistant Professor</b> </p>
-   <p> Department of Biology </p>
-   <p> Department of Physics and Astronomy </p>
+    <p> Department of Biology </p>
+    <p> Department of Physics and Astronomy </p>
     Muhammed is a physicist by training from his alma mater Middle East Technical University in Ankara, Turkey. He holds a Ph.D. from Physics Department of University at Buffalo (cell membrane biophysics) and did postdoctoral research at Albert Einstein College of Medicine in Bronx, NY and Cincinnati Children's Hospital (developmental systems biology) before joining McMaster University."
   - image_path: /assets/images/pic101.jpg
     alt: "Dila Aycan"
@@ -29,7 +29,7 @@ feature_row:
     alt: "Hamdan Raneef"
     title: "Hamdan Raneef"
     excerpt: "<p><b> Thesis Student</b> </p>
-   <p> McMaster Biology</p>
+    <p> McMaster Biology</p>
     Hamdan is in the Molecular Biology and Genetics program and will be starting his thesis research in September 2024 investigating regulations of the ERK pathway in developing embryo. He aims to pursue a career in molecular biology/biomedical research. Outside of academics, Hamdan is an avid soccer fan, enjoys volunteering at the community center and food bank, and loves traveling."
   - image_path: /assets/images/pic102.jpg
     alt: "Alina Altinbaeva"

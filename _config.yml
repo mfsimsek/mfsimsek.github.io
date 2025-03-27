@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: pBoDS Lab 
+title: Physical Biology of Developing Systems Lab 
 email: mfsimsek@mcmaster.ca
 description: >- # this means to ignore newlines until "baseurl:"
  Physical biology of developing systems lab @McMaster
@@ -33,6 +33,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -82,7 +83,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: projects
     values:
       layout: splash
