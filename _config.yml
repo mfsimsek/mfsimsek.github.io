@@ -26,7 +26,8 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-teaser: "/assets/images/background_developingsystems.png"
+header:
+  teaser: "/assets/images/background_developingsystems.png"
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
