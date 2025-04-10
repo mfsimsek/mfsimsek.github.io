@@ -100,6 +100,9 @@ defaults:
       layout: splash
       author_profile: true
 
+<video src='/assets/images/media1.mp4'/>
+alt: "Zebrafish embryo developing from a single cell"
+
 category_archive:
   type: liquid
   path: /members/
