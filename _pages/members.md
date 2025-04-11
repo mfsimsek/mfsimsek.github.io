@@ -20,7 +20,7 @@ feature_row:
     <p> Department of Biology </p>
     <p> Department of Physics and Astronomy </p>
     Muhammed is a physicist by training from his alma mater Middle East Technical University in Ankara, Turkey. He holds a Ph.D. from Physics Department of University at Buffalo (cell membrane biophysics) and did postdoctoral research at Albert Einstein College of Medicine in Bronx, NY and Cincinnati Children's Hospital (developmental systems biology) before joining McMaster University."
-    <p>
+    <p></p>
   - image_path: /assets/images/pic101.jpg
     alt: "Dila Aycan"
     title: "Dila Aycan"
