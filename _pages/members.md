@@ -55,7 +55,7 @@ feature_row1:
     Ciara joined the lab in May 2024 as a recipient of a Summer Research Experience Award. She has loved science since she was a kid and is thrilled to be working on a project exploring the use of pulsate drug treatments to recover somites in clock-mutant embryos. She aims to pursue graduate studies in Molecular Biology and Genetics, and have a career in research."   
 ---
 
-{% include feature_row type="center" %}
+{% include feature_row type="left" %}
 
 {% include feature_row id="feature_row1" %}
 
