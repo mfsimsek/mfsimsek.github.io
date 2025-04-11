@@ -15,7 +15,7 @@ feature_row:
   - image_path: assets/images/pic03.jpg
     alt: "M. Fethullah Simsek"
     title: "M. Fethullah Simsek"
-    excerpt: "<p>Contact: mfsimsek @mcmaster.ca</p>
+    excerpt: "<p>mfsimsek @mcmaster.ca</p>
     <p><b> Assistant Professor</b> </p>
     <p> Department of Biology </p>
     <p> Department of Physics and Astronomy </p>
@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/pic101.jpg
     alt: "Dila Aycan"
     title: "Dila Aycan"
-    excerpt: "<p>Contact: aycand1 @mcmaster.ca</p>
+    excerpt: "<p>aycand1 @mcmaster.ca</p>
     <p><b> Ph.D. Student</b> </p>
     <p>McMaster Biology</p>
     Dila started in the lab in January 2024 and she works on the mechanisms of regulation of the Fgf signalling gradient. Dila graduated from U of T in 2019 and did her Master's in the Univ of Ottawa. After her MSc, Dila worked as a Research Assistant at BlueRock Therapeutics in Cambridge, MA and as a Science Editor at Xtalks in Toronto, ON."
