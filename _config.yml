@@ -107,4 +107,4 @@ category_archive:
   path: /members/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /links/
