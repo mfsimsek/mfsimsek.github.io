@@ -15,7 +15,7 @@ feature_row:
   - image_path: assets/images/pic03.jpg
     alt: "M. Fethullah Simsek"
     title: "M. Fethullah Simsek"
-    excerpt: "Contact: mfsimsek @mcmaster.ca
+    excerpt: "<p>Contact: mfsimsek @mcmaster.ca</p>
     <p><b> Assistant Professor</b> </p>
     <p> Department of Biology </p>
     <p> Department of Physics and Astronomy </p>
