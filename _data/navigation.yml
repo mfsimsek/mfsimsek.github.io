@@ -3,8 +3,7 @@ main:
     url: /splash-page/
   - title: "Members"
     url: /members/
-  - title: "Tags"
-    url: /tags/
+  - title: "Links"
+    url: /links/
   - title: "About"
     url: /about/
-
