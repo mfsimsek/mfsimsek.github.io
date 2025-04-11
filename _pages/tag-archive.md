@@ -1,6 +1,6 @@
 ---
 title: "Useful Research Links"
-permalink: /tags/
+permalink: /links/
 layout: tags
 author_profile: true
 ---
