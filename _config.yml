@@ -35,7 +35,9 @@ gallery:
     image_path: assets/images/media1.mp4
     alt: "embryo from a single cell"
     title: "First 20 hours of zebrafish development beginning from a single cell"
+    
 {% include gallery caption="This is a sample gallery dedicated to **our favourite model organism**." %}
+
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
