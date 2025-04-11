@@ -100,16 +100,6 @@ defaults:
       layout: splash
       author_profile: true
 
-gallery:
-  - url: /assets/images/background_developingsystems.png
-    image_path: /assets/images/background_developingsystems.png
-    alt: "clock of embryo"
-    title: "A molecular clockwork sets the pace of vertebrate embryo segmentation."
-  - url: assets/images/media1.mp4
-    image_path: assets/images/media1.mp4
-    alt: "embryo from a single cell"
-    title: "First 20 hours of zebrafish development beginning from a single cell."
-
 category_archive:
   type: liquid
   path: /members/
