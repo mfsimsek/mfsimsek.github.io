@@ -4,7 +4,6 @@ categories:
   - Resource
 tags:
   - link
-  - Post Formats
 link: https://blast.ncbi.nlm.nih.gov/Blast.cgi
 ---
 
