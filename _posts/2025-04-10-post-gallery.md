@@ -6,7 +6,7 @@ tags:
   - gallery
   - Post Formats
   - news
-gallery:
+bus2025:
   - url: /assets/images/Bus00.jpg
     image_path: /assets/images/Bus00q.jpg
     alt: "Biology Undergraduate Symposium 00"
@@ -34,5 +34,5 @@ gallery:
 ---
 
 Congrat to Mohammed and Hamdan successfully presenting their honors theses in **Biology Undergradute Symposium**. 
-{% include gallery id="gallery" class="full" layout="half" caption="" %}
+{% include gallery id="bus2025" class="full" layout="half" caption="Biology Undergraduate Symposium @McMaster" %}
 Mohammed won the best talk award in Cell and Developmental Biology session!
