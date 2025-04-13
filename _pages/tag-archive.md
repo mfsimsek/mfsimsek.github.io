@@ -1,6 +1,6 @@
 ---
-title: "News and Resources"
-permalink: /news/
+title: "Resources"
+permalink: /links/
 layout: categories
 author_profile: true
 ---
