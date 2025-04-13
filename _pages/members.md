@@ -52,17 +52,21 @@ feature_row1:
     title: "Ciara Kinsella"
     excerpt: "<p><b> Undergraduate Student</b> </p>
     <p>McMaster Biology</p>
-    Ciara joined the lab in May 2024 as a recipient of a Summer Research Experience Award. She has loved science since she was a kid and is thrilled to be working on a project exploring the use of pulsate drug treatments to recover somites in clock-mutant embryos. She aims to pursue graduate studies in Molecular Biology and Genetics, and have a career in research."   
+    Ciara joined the lab in May 2024 as a recipient of a Summer Research Experience Award. She has loved science since she was a kid and is thrilled to be working on a project exploring the use of pulsate drug treatments to recover somites in clock-mutant embryos. She aims to pursue graduate studies in Molecular Biology and Genetics, and have a career in research."
+    - image_path: /assets/images/pic106.jpg
+    alt: "Russell Beltran"
+    title: "Russell Beltran"
+    excerpt: "<p><b> Undergraduate Student</b> </p>
+    <p>McMaster Integrated Science (Biology Concentration)</p>
+    Russell joined the lab in Winter 2025 as an independent research project student and will continue his work as fulfillment of his undergraduate thesis. Russell aims to attend graduate school in biophysics or molecular genetics. Outside of school, Russell enjoys reading and loves coffee." 
+    - image_path: /assets/images/pic107.jpg
+    alt: "Muzainah Majid"
+    title: "Muzainah Majid"
+    excerpt: "<p><b> Undergraduate Student</b> </p>
+    <p>McMaster Biology</p>
+    Muzainah joined the lab in January 2025 as a volunteer. Her research focuses on assessing how vertebrate embryo somites translate into further phenotypes using various molecular tools. She is passionate about pursuing a career in research, and in her free time, you can find her painting or walking along a scenic trail!"    
 ---
 
 {% include feature_row type="left" %}
 
 {% include feature_row id="feature_row1" %}
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
