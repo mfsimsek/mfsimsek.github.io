@@ -1,7 +1,7 @@
 ---
 title: "Embryonic Development Map"
 categories:
-  - Blog
+  - Resource
 tags:
   - link
   - Post Formats
