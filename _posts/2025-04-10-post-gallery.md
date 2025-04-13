@@ -6,6 +6,7 @@ tags:
   - gallery
   - Post Formats
   - news
+  - tiled
 bus2025:
   - url: /assets/images/Bus00.jpg
     image_path: /assets/images/Bus00q.jpg
