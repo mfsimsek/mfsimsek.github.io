@@ -109,4 +109,7 @@ category_archive:
   path: /members/
 tag_archive:
   type: liquid
+  path: /links/
+year_archive:
+  type: liquid
   path: /news/
