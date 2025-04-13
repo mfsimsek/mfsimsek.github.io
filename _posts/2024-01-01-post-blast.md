@@ -1,7 +1,7 @@
 ---
 title: "Basic Local Alignment Search Tool"
 categories:
-  - Blog
+  - Resource
 tags:
   - link
   - Post Formats
