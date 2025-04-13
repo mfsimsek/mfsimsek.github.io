@@ -1,6 +1,6 @@
 ---
 title: "News and Resources"
 permalink: /news/
-layout: archive
+layout: categories
 author_profile: true
 ---
