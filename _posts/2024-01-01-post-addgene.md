@@ -1,7 +1,7 @@
 ---
 title: "Addgene Plasmid Database"
 categories:
-  - Blog
+  - Resource
 tags:
   - link
   - Post Formats
