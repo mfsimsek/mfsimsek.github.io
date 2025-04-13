@@ -4,7 +4,6 @@ categories:
   - Resource
 tags:
   - link
-  - Post Formats
 link: https://www.ensembl.org/index.html
 ---
 
