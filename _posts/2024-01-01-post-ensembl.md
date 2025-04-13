@@ -1,7 +1,7 @@
 ---
 title: "Ensembl Genome Browser"
 categories:
-  - Blog
+  - Resource
 tags:
   - link
   - Post Formats
