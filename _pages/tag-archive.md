@@ -1,6 +1,6 @@
 ---
-title: "Useful Links"
-permalink: /links/
+title: "News and Resources"
+permalink: /News/
 layout: tags
 author_profile: true
 ---
