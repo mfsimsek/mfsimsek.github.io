@@ -1,10 +1,9 @@
 ---
 title: "Biology Undergraduate Symposium 2025"
 categories:
-  - Post Formats
+  - News
 tags:
   - gallery
-  - Post Formats
   - news
 bus2025:
   - url: /assets/images/Bus00.jpg
