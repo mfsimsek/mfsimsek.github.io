@@ -33,6 +33,6 @@ gallery:
     title: "Biology Undergraduate Symposium 05"
 ---
 
+Congrat to Mohammed and Hamdan successfully presenting their honors theses in **Biology Undergradute Symposium**. 
 {% include gallery id="gallery" class="full" layout="half" caption="" %}
-
-Congrat to Mohammed and Hamdan successfully presenting their honors theses in **Biology Undergradute Symposium**. Mohammed won the best talk award in Cell and Developmental Biology session!
+Mohammed won the best talk award in Cell and Developmental Biology session!
