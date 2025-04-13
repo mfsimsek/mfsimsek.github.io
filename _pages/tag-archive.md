@@ -1,6 +1,6 @@
 ---
 title: "News and Resources"
-permalink: /News/
+permalink: /news/
 layout: tags
 author_profile: true
 ---
