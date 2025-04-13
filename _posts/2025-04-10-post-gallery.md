@@ -33,5 +33,5 @@ bus2025:
 ---
 
 Congrat to Mohammed and Hamdan successfully presenting their honors theses in **Biology Undergradute Symposium**. 
-{% include gallery id="bus2025" layout="half" caption="Biology Undergraduate Symposium @McMaster" %}
+{% include gallery id="bus2025" class="third" caption="Biology Undergraduate Symposium @McMaster" %}
 Mohammed won the best talk award in Cell and Developmental Biology session!
