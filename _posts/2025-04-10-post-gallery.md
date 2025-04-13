@@ -5,7 +5,7 @@ categories:
 tags:
   - gallery
   - Post Formats
-  - tiled
+  - news
 gallery:
   - url: /assets/images/Bus00.jpg
     image_path: /assets/images/Bus00.jpg
