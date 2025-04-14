@@ -1,7 +1,6 @@
 ---
 permalink: /pubs/
 title: "Publications"
-layout: splash
 feature_row:
   - title: "The vertebrate segmentation clock drives segmentation by stabilizing Dusp phosphatases in zebrafish"
     excerpt: "<u>Simsek MF</u>, Saparov D, Keseroglu K, Zinani O, Chandel AS, Dulal B, Sharma BK, Zimik S, Özbudak EM, Developmental Cell (2025)."
@@ -9,8 +8,8 @@ feature_row:
     btn_label: "Cross Ref"
     btn_class: "btn--primary"
   - title: "Spatiotemporal control of pattern formation during somitogenesis"
-    excerpt: " McDaniel C, <u>Simsek MF</u>, Chandel AS, Özbudak EM, Science Advances (2024)."
-	url: "https://doi.org/10.1126/sciadv.adk8937"
+    excerpt: "McDaniel C, <u>Simsek MF</u>, Chandel AS, Özbudak EM, Science Advances (2024)."
+    url:"https://doi.org/10.1126/sciadv.adk8937"
     btn_label: "Cross Ref"
     btn_class: "btn--primary"
   - title: "A design logic for sequential segmentation across organisms"
