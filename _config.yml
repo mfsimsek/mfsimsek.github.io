@@ -66,7 +66,7 @@ author:
       url: "https://biology.mcmaster.ca"
     - label: "Bluesky"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://bsky.app/pbodslab.bluesky.social/"
+      url: "https://bsky.app/profile/pbodslab.bluesky.social/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mfsimsek/"
@@ -75,7 +75,7 @@ footer:
   links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://bsky.app/pbodslab.bluesky.social/"
+      url: "https://bsky.app/profile/pbodslab.bluesky.social/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mfsimsek/"
