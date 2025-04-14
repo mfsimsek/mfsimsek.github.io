@@ -18,7 +18,7 @@ title: "Physical Biology of Developing Systems Lab"
 email: mfsimsek@mcmaster.ca
 description: >- # this means to ignore newlines until "baseurl:"
  Physical biology of developing systems lab @McMaster
-twitter_username: pbodslab.bluesky.social
+twitter_username: pbodslab.bsky.social
 github_username: mfsimsek
 search: true
 
@@ -66,7 +66,7 @@ author:
       url: "https://biology.mcmaster.ca"
     - label: "Bluesky"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://bsky.app/profile/pbodslab.bluesky.social/"
+      url: "https://bsky.app/profile/pbodslab.bsky.social/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mfsimsek/"
@@ -75,7 +75,7 @@ footer:
   links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://bsky.app/profile/pbodslab.bluesky.social/"
+      url: "https://bsky.app/profile/pbodslab.bsky.social/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mfsimsek/"
