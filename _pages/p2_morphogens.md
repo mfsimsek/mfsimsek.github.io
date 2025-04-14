@@ -1,17 +1,18 @@
 ---
 permalink: /p2_morphogens/
 title: "Systems Control of Morphogen Signaling"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/morphogens.png
+  actions:
+    - label: "Systems Control of Morphogen Signaling"
+      url: "https://physicalbiology.ca/p2_morphogens"
 ---
-
-<h1 class="major">Systems Control of Morphogen Signaling</h1>
 <section>
-<span class="image fit"><img src="images/morphogens.png" alt="" style="object-fit:scale-down; width:1000px" data-position="left top" /></span>
-</section>
-<section>
-Embryos undergo a remarkable transformation from a single cell to three-dimensional structured organisms; while genetically identical cell groups acquire specialized identities. During embryonic development cells both produce and accurately interpret morphogen gradients, which are essential for determining their positions and guiding specific decisions [1].</p>
-Notably, only a small number of signaling pathways are commonly utilized by cells for the complex and robust tasks involved in early developmental patterning [2]. The majority of these pathways involve secreted ligands that establish gradients. However, our understanding of how specific characteristics of morphogen gradients (such as threshold, slope, temporal change, and persistence) evolve over time and provide positional information for cellular organization and differentiation, remains limited.
-</p>
-To gain insight into the system-level design of morphogen signaling information, our research focuses on posterior signaling gradients (Fgf and Wnt) in the unsegmented tail bud tissue, which ultimately give rise to somites [3,4]. We seek to answer the following key questions: a- How are these morphogen gradients established and shaped within the presomitic mesoderm? b- How is the diffusion of ligands polarized in the tissue? and c- how is the control of the range or extent of these gradients achieved?	
+<p>Embryos undergo a remarkable transformation from a single cell to three-dimensional structured organisms; while genetically identical cell groups acquire specialized identities. During embryonic development cells both produce and accurately interpret morphogen gradients, which are essential for determining their positions and guiding specific decisions [1].
+<p>Notably, only a small number of signaling pathways are commonly utilized by cells for the complex and robust tasks involved in early developmental patterning [2]. The majority of these pathways involve secreted ligands that establish gradients. However, our understanding of how specific characteristics of morphogen gradients (such as threshold, slope, temporal change, and persistence) evolve over time and provide positional information for cellular organization and differentiation, remains limited.
+<p>To gain insight into the system-level design of morphogen signaling information, our research focuses on posterior signaling gradients (Fgf and Wnt) in the unsegmented tail bud tissue, which ultimately give rise to somites [3,4]. We seek to answer the following key questions: a- How are these morphogen gradients established and shaped within the presomitic mesoderm? b- How is the diffusion of ligands polarized in the tissue? and c- how is the control of the range or extent of these gradients achieved?	
 </section>
 <p>
 <h2>Further Reading:</h2>
