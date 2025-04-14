@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/sequential.png
   actions:
     - label: "Underlying Principles of Somitogenesis"
-      url: "https://physicalbiology.ca/p2_morphogens"
+      url: "https://physicalbiology.ca/p1_segmentation"
 ---
 <section>
 <p>Diverse multicellular organisms, from plants to basal chordates and humans, display metameric organization of their major body axis during development and growth. Somites, bilateral blocks of mesoderm, are embryonic tissues segmenting sequentially from head to tail succession while the vertebrate embryo axis elongates. Axis elongation is coupled to sequential segmentation of somites (somitogenesis) in all vertebrate species from zebrafish to humans [1]. Somites are embryonic precursors of vertebrae, ribs, and associated skin, muscle, and cartilage tissues. Somite borders further guide blood vessels and peripheral nervous system during early embryogenesis. When somitogenesis goes awry, it results in congenital vertebral malformations (CVMs) in humans [2].
