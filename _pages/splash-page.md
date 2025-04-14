@@ -19,14 +19,14 @@ feature_row:
     alt: "Somites and notochord"
     title: "Design Principles of Somitogenesis"
     excerpt: "How do vertebrate embryo cells make repetitive decisions? What controls the robustness of embryo **patterning** during somite segmentation?"
-    url: "#p1_segmentation"
+    url: "p1_segmentation"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/pic02.jpg
     alt: "ERK signal in tailbud"
     title: "Systems Control of Morphogen Signalling"
     excerpt: "How do cells sense their position in an embryo? How do cells both create and interpret **positional information** through diffusive morphogens?"
-    url: "#p2_morphogens"
+    url: "p2_morphogens"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
