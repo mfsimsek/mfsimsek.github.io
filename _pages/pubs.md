@@ -11,7 +11,7 @@ feature_row:
   - image_path: assets/images/p_sciadv2024.jpg
     title: "Spatiotemporal control of pattern formation during somitogenesis"
     excerpt: "McDaniel C, <u>Simsek MF</u>, Chandel AS, Özbudak EM, Science Advances (2024)."
-    url:"https://doi.org/10.1126/sciadv.adk8937"
+    url: "https://doi.org/10.1126/sciadv.adk8937"
     btn_label: "Cross Ref"
     btn_class: "btn--primary"
   - title: "A design logic for sequential segmentation across organisms"
