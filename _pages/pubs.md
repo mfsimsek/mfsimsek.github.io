@@ -1,9 +1,7 @@
 ---
 permalink: /pubs/
 title: "Publications"
----
-<h1 class="major">Publications</h1> 
-
+layout: splash
 feature_row:
   - title: "The vertebrate segmentation clock drives segmentation by stabilizing Dusp phosphatases in zebrafish"
     excerpt: "<u>Simsek MF</u>, Saparov D, Keseroglu K, Zinani O, Chandel AS, Dulal B, Sharma BK, Zimik S, Özbudak EM, Developmental Cell (2025)."
@@ -38,6 +36,7 @@ feature_row:
 ---
 {% include feature_row %}
 
+<h1 class="major">Publications</h1> 
 <ul> <u>Simsek MF</u>, Saparov D, Keseroglu K, Zinani O, Chandel AS, Dulal B, Sharma BK, Zimik S, Özbudak EM, "The vertebrate segmentation clock drives segmentation by stabilizing Dusp phosphatases in zebrafish" Developmental Cell (2025). <a href="https://doi.org/10.1016/j.devcel.2024.11.003" target="_blank" class="button">Cross Ref</a> </ul>
 <ul> McDaniel C, <u>Simsek MF</u>, Chandel AS, Özbudak EM, "Spatiotemporal control of pattern formation during somitogenesis" Science Advances (2024). <a href="https://doi.org/10.1126/sciadv.adk8937" target="_blank" class="button">Cross Ref</a> </ul>
 <ul> <u>Simsek MF</u> and Özbudak EM, "A design logic for sequential segmentation across organisms" FEBS Journal (2023). <a href="https://doi.org/10.1111/febs.16899" target="_blank" class="button">Cross Ref</a> </ul>
