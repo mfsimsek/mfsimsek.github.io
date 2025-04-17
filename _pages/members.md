@@ -59,6 +59,12 @@ feature_row1:
     excerpt: "<p><b> Undergraduate Student</b> </p>
     <p>McMaster Integrated Science (Biology Concentration)</p>
     Russell joined the lab in Winter 2025 as an independent research project student and will continue his work as fulfillment of his undergraduate thesis. Russell aims to attend graduate school in biophysics or molecular genetics. Outside of school, Russell enjoys reading and loves coffee." 
+  - image_path: /assets/images/pic108.jpg
+    alt: "Shashwati Sanjay"
+    title: "Shashwati Sanjay"
+    excerpt: "<p><b> Undergraduate Student</b> </p>
+    <p>McMaster Biology</p>
+    Shashwati is in the Molecular Biology & Genetics Research Program at McMaster University. Passionate about both developmental biology and biophysics, she joined the lab as a volunteer. Moving into her thesis project, Shashwati works on the molecular diffusion dynamics in live zebrafish embryos. Outside the lab, she enjoys dancing, baking, and playing video games."
   - image_path: /assets/images/pic107.jpg
     alt: "Muzainah Majid"
     title: "Muzainah Majid"
