@@ -42,4 +42,4 @@ hike:
 ---
 
 The lab and Dila's tiny microscope had a fun Spring hike at Mountsberg Conservation Area, Campbellville, ON, with bloodroots, frogs and tadpoles, deer tracks, and trunk rings!  
-{% include gallery id="hike" caption="Lab Sprink Hike @Mountsberg" %}
+{% include gallery id="hike" caption="Lab Spring Hike @Mountsberg" %}
