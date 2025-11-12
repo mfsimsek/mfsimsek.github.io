@@ -55,25 +55,19 @@ feature_row1:
     excerpt: "<p><b> Thesis Student</b> </p>
     <p>McMaster Integrated Science (Biology Concentration)</p>
     Russell joined the lab in Winter 2025 as an independent research project student and now continues his work as fulfillment of his undergraduate thesis. Russell aims to attend graduate school in biophysics or molecular genetics. Outside of school, Russell enjoys reading and loves coffee." 
-  
+  - image_path: /assets/images/pic108.jpg
+    alt: "Shashwati Sanjay"
+    title: "Shashwati Sanjay"
+    excerpt: "<p><b> Thesis Student</b> </p>
+    <p>McMaster Biology</p>
+    Shashwati is in the Molecular Biology & Genetics Research Program at McMaster University. Passionate about both developmental biology and biophysics, she joined the lab as a volunteer. Moving into her thesis project, Shashwati works on the molecular diffusion dynamics in live zebrafish embryos. Outside the lab, she enjoys dancing, baking, and playing video games."
   - image_path: /assets/images/pic107.jpg
     alt: "Muzainah Majid"
     title: "Muzainah Majid"
     excerpt: "<p><b> Undergraduate Student</b> </p>
     <p>McMaster Biology</p>
     Muzainah joined the lab in January 2025 as a volunteer and she currently is a practicum student. Her research focuses on assessing how vertebrate embryo somites translate into further phenotypes using various molecular tools. She is passionate about pursuing a career in research, and in her free time, you can find her painting or walking along a scenic trail!"    
-    - image_path: /assets/images/pic110.jpg
-    alt: "Brooke Bibby"
-    title: "Brooke Bibby"
-    excerpt: "<p><b> Undergraduate Student</b> </p>
-    <p> McMaster Biochemistry</p>
-    Brooke is a third-year student in the Biomedical Discovery and Commercialization program. She joined the lab in the fall of 2025 to conduct an independent research project. Her work focuses on phenotyping changes in somites following application of drugs targeting the ERK signaling pathway. Outside of academics, Brooke enjoys hiking, reading and painting."
-  - image_path: /assets/images/pic111.jpg
-    alt: "Bahtinur Yilmaz"
-    title: "Bahtinur Yilmaz"
-    excerpt: "<p><b> Undergraduate Student</b> </p>
-    <p>McMaster Biology</p>
-    Bahtinur is a third-year Bio-PNB student who joined the lab in 2025 Summer as a research practicum student. Her current research focuses on quantifying dynamics of the fgf gradient in zebrafish embryos. Bahtinur is eager to pursue a career in research. Outside the lab, she enjoys building intricate 3D puzzles."
+
 
 feature_row2:
   - title: "Lab Alumni"
