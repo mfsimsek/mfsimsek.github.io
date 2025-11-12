@@ -80,7 +80,7 @@ feature_row1:
     <p>McMaster Biology</p>
     Bahtinur is a third-year Bio-PNB student who joined the lab in 2025 Summer as a research practicum student. Her current research focuses on quantifying dynamics of the fgf gradient in zebrafish embryos. Bahtinur is eager to pursue a career in research. Outside the lab, she enjoys building intricate 3D puzzles."
 
-feature_row1:
+feature_row2:
   - title: "Lab Alumni"
     excerpt: "<p><b>Hamdan Raneef</b></p>
     <p><i> 2024-2025 Honours Thesis Student </i></p>
