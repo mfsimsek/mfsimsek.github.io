@@ -61,13 +61,14 @@ feature_row1:
     excerpt: "<p><b> Thesis Student</b> </p>
     <p>McMaster Biology</p>
     Shashwati is in the Molecular Biology & Genetics Research Program at McMaster University. Passionate about both developmental biology and biophysics, she joined the lab as a volunteer. Moving into her thesis project, Shashwati works on the molecular diffusion dynamics in live zebrafish embryos. Outside the lab, she enjoys dancing, baking, and playing video games."
+feature_row2:
   - image_path: /assets/images/pic107.jpg
     alt: "Muzainah Majid"
     title: "Muzainah Majid"
     excerpt: "<p><b> Undergraduate Student</b> </p>
     <p>McMaster Biology</p>
     Muzainah joined the lab in January 2025 as a volunteer and she currently is a practicum student. Her research focuses on assessing how vertebrate embryo somites translate into further phenotypes using various molecular tools. She is passionate about pursuing a career in research, and in her free time, you can find her painting or walking along a scenic trail!"    
-    - image_path: /assets/images/pic110.jpg
+  - image_path: /assets/images/pic110.jpg
     alt: "Brooke Bibby"
     title: "Brooke Bibby"
     excerpt: "<p><b> Undergraduate Student</b> </p>
@@ -79,17 +80,21 @@ feature_row1:
     excerpt: "<p><b> Undergraduate Student</b> </p>
     <p>McMaster Biology</p>
     Bahtinur is a third-year Bio-PNB student who joined the lab in 2025 Summer as a research practicum student. Her current research focuses on quantifying dynamics of the fgf gradient in zebrafish embryos. Bahtinur is eager to pursue a career in research. Outside the lab, she enjoys building intricate 3D puzzles."
-
-feature_row1:
+feature_row3:
   - title: "Lab Alumni"
     excerpt: "<p><b>Hamdan Raneef</b></p>
-    <p><i> 2024-2025 Honours Thesis Student </i></p>
-    <p>McMaster Biology Molecular Biology and Genetics Program</p>"
-    excerpt: "<p><b> Alina Altinbaeva</b></p>
-    <p><i> 2024-2025 Undergraduate Student </i></p>
+    <p> 2024-2025 Honours Thesis Student </p>
+    <p>McMaster Biology Molecular Biology and Genetics Program</p>
+    <p></p>
+    <p><b> Alina Altinbaeva</b></p>
+    <p> 2024-2025 Undergraduate Student </p>
     <p> McMaster Biochemistry Biomedical Discovery and Commercialization Program</p>"
 ---
 
 {% include feature_row type="left" %}
 
 {% include feature_row id="feature_row1" %}
+
+{% include feature_row id="feature_row2" %}
+
+{% include feature_row id="feature_row3" %}
