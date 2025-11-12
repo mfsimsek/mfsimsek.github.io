@@ -83,10 +83,11 @@ feature_row1:
 feature_row2:
   - title: "Lab Alumni"
     excerpt: "<p><b>Hamdan Raneef</b></p>
-    <p><i> 2024-2025 Honours Thesis Student </i></p>
-    <p>McMaster Biology Molecular Biology and Genetics Program</p>"
-    excerpt: "<p><b> Alina Altinbaeva</b></p>
-    <p><i> 2024-2025 Undergraduate Student </i></p>
+    <p> 2024-2025 Honours Thesis Student </p>
+    <p>McMaster Biology Molecular Biology and Genetics Program</p>
+    <p></p>
+    <p><b> Alina Altinbaeva</b></p>
+    <p> 2024-2025 Undergraduate Student </p>
     <p> McMaster Biochemistry Biomedical Discovery and Commercialization Program</p>"
 ---
 
