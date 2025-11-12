@@ -67,6 +67,12 @@ feature_row1:
     excerpt: "<p><b> Undergraduate Student</b> </p>
     <p>McMaster Biology</p>
     Muzainah joined the lab in January 2025 as a volunteer and she currently is a practicum student. Her research focuses on assessing how vertebrate embryo somites translate into further phenotypes using various molecular tools. She is passionate about pursuing a career in research, and in her free time, you can find her painting or walking along a scenic trail!"    
+  - image_path: /assets/images/pic110.jpg
+    alt: "Brooke Bibby"
+    title: "Brooke Bibby"
+    excerpt: "<p><b> Undergraduate Student</b> </p>
+    <p> McMaster Biochemistry</p>
+    Brooke is a third-year student in the Biomedical Discovery and Commercialization program. She joined the lab in the fall of 2025 to conduct an independent research project. Her work focuses on phenotyping changes in somites following application of drugs targeting the ERK signaling pathway. Outside of academics, Brooke enjoys hiking, reading and painting."
 
 
 feature_row2:
