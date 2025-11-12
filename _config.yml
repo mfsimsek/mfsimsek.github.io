@@ -106,6 +106,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /links/
+pubs:
+  type: liquid
+  path: /pubs/
 year_archive:
   type: liquid
   path: /news/
