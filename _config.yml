@@ -100,15 +100,15 @@ defaults:
       layout: splash
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /members/
-tag_archive:
-  type: liquid
-  path: /links/
-pubs:
-  type: liquid
-  path: /pubs/
-year_archive:
-  type: liquid
-  path: /news/
+#category_archive:
+ # type: liquid
+ # path: /members/
+#tag_archive:
+ # type: liquid
+ # path: /links/
+#pubs:
+ # type: liquid
+ # path: /pubs/
+#year_archive:
+ # type: liquid
+ # path: /news/
