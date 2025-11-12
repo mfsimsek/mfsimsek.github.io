@@ -61,6 +61,7 @@ feature_row1:
     excerpt: "<p><b> Thesis Student</b> </p>
     <p>McMaster Biology</p>
     Shashwati is in the Molecular Biology & Genetics Research Program at McMaster University. Passionate about both developmental biology and biophysics, she joined the lab as a volunteer. Moving into her thesis project, Shashwati works on the molecular diffusion dynamics in live zebrafish embryos. Outside the lab, she enjoys dancing, baking, and playing video games."
+feature_row2:
   - image_path: /assets/images/pic107.jpg
     alt: "Muzainah Majid"
     title: "Muzainah Majid"
@@ -73,9 +74,13 @@ feature_row1:
     excerpt: "<p><b> Undergraduate Student</b> </p>
     <p> McMaster Biochemistry</p>
     Brooke is a third-year student in the Biomedical Discovery and Commercialization program. She joined the lab in the fall of 2025 to conduct an independent research project. Her work focuses on phenotyping changes in somites following application of drugs targeting the ERK signaling pathway. Outside of academics, Brooke enjoys hiking, reading and painting."
-
-
-feature_row2:
+  - image_path: /assets/images/pic111.jpg
+    alt: "Bahtinur Yilmaz"
+    title: "Bahtinur Yilmaz"
+    excerpt: "<p><b> Undergraduate Student</b> </p>
+    <p>McMaster Biology</p>
+    Bahtinur is a third-year Bio-PNB student who joined the lab in 2025 Summer as a research practicum student. Her current research focuses on quantifying dynamics of the fgf gradient in zebrafish embryos. Bahtinur is eager to pursue a career in research. Outside the lab, she enjoys building intricate 3D puzzles."
+feature_row3:
   - title: "Lab Alumni"
     excerpt: "<p><b>Hamdan Raneef</b></p>
     <p> 2024-2025 Honours Thesis Student </p>
@@ -91,3 +96,5 @@ feature_row2:
 {% include feature_row id="feature_row1" %}
 
 {% include feature_row id="feature_row2" %}
+
+{% include feature_row id="feature_row3" %}
