@@ -4,10 +4,10 @@ main:
   - title: "Members"
     url: /members/
   - title: "News"
-    url: /news/
-  - title: "Resources"
-    url: /links/
+    url: /updates/
   - title: "Publications"
     url: /pubs/
+  - title: "Resources"
+    url: /links/
   - title: "About"
     url: /about/
