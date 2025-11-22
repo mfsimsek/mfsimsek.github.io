@@ -3,7 +3,7 @@ main:
     url: /splash-page/
   - title: "Members"
     url: /members/
-  - title: "News"
+  - title: "Updates"
     url: /updates/
   - title: "Publications"
     url: /pubs/
