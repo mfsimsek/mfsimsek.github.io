@@ -1,10 +1,10 @@
 ---
 title: "2025 Spring Hike"
 categories:
-  - News
+  - Updates
 tags:
   - gallery
-  - news
+  - updates
 hike:
   - url: /assets/images/hike00.jpg
     image_path: /assets/images/hike00q.jpg

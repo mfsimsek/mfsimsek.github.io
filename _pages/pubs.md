@@ -2,6 +2,12 @@
 permalink: /pubs/
 title: "Publications"
 feature_row:
+  - image_path: assets/images/p_biorxiv2025.jpg
+    title: "An accessible microfluidic perfusion platform for time-restricted control of zebrafish embryonic patterning"
+    excerpt: "Nakhuda MA, Simsek MF, bioRxiv (2025)."
+    url: "https://doi.org/10.1101/2025.09.29.679302"
+    btn_label: "Cross Ref"
+    btn_class: "btn--primary"
   - image_path: assets/images/p_devcell2025.jpg
     title: "The vertebrate segmentation clock drives segmentation by stabilizing Dusp phosphatases in zebrafish"
     excerpt: "<u>Simsek MF</u>*, Saparov D*, Keseroglu K, Zinani O, Chandel AS, Dulal B, Sharma BK, Zimik S, Özbudak EM, Developmental Cell (2025)."

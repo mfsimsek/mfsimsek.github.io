@@ -3,11 +3,11 @@ main:
     url: /splash-page/
   - title: "Members"
     url: /members/
-  - title: "News"
-    url: /news/
-  - title: "Resources"
-    url: /links/
+  - title: "Updates"
+    url: /updates/
   - title: "Publications"
     url: /pubs/
+  - title: "Resources"
+    url: /links/
   - title: "About"
     url: /about/
