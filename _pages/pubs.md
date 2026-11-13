@@ -2,6 +2,24 @@
 permalink: /pubs/
 title: "Publications"
 feature_row:
+  - image_path: assets/images/p_principofdev.png
+    title: "Principles of Development - An inquisitive journey into embryology"
+    excerpt: "Simsek MF, Alexei A (ed.), e-Campus Ontario (2026)."
+    url: "https://ecampusontario.pressbooks.pub/principlesofdev/"
+    btn_label: "Cross Ref"
+    btn_class: "btn--primary"
+  - image_path: assets/images/p_labmanual2026.jpg
+    title: "Principles of Development Laboratory Manual"
+    excerpt: "Simsek MF, Georgescu M, e-Campus Ontario (2026)."
+    url: "https://ecampusontario.pressbooks.pub/molbiol3m03/"
+    btn_label: "Cross Ref"
+    btn_class: "btn--primary"
+  - image_path: assets/images/p_biorxiv2025.jpg
+    title: "An accessible microfluidic perfusion platform for time-restricted control of zebrafish embryonic patterning"
+    excerpt: "Nakhuda MA, Simsek MF, Developmental Dynamics (2026)."
+    url: "https://doi.org/10.1002/dvdy.70151"
+    btn_label: "Cross Ref"
+    btn_class: "btn--primary"
   - image_path: assets/images/p_biorxiv2025.jpg
     title: "An accessible microfluidic perfusion platform for time-restricted control of zebrafish embryonic patterning"
     excerpt: "Nakhuda MA, Simsek MF, bioRxiv (2025)."
