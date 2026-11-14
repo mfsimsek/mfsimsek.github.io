@@ -111,7 +111,7 @@ feature_row4:
     <p><b> Brooke Bibby</b></p>
     <p> 2025-2026 Undergraduate Student </p>
     <p> McMaster Biochemistry</p>"
-    ---
+---
 
 {% include feature_row type="left" %}
 
