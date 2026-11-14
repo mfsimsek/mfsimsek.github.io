@@ -43,6 +43,13 @@ feature_row1:
     <p><b> M.Sc. Student</b> </p>
     <p> McMaster Biology</p>
     Mohammed wrote his Honours Biology thesis on developing an imaging platform for developing zebrafish embryos. He currently pursues a Master's degree in the lab. Mohammed has been active in department's student societies BioSoc and BGSS, and likes to do volunteering in his times outside the lab."
+feature_row2:
+  - image_path: /assets/images/pic107.jpg
+    alt: "Muzainah Majid"
+    title: "Muzainah Majid"
+    excerpt: "<p><b> Thesis Student</b> </p>
+    <p>McMaster Biology</p>
+    Muzainah joined the lab as a volunteer and took a research practicum course in 2025. Being awarded NSERC USRA Summer Fellowship Muzainah continues her research focusing on assessing how vertebrate embryo somites translate into further phenotypes using various molecular tools. She is passionate about pursuing a career in research, and in her free time, you can find her painting or walking along a scenic trail!"  
   - image_path: /assets/images/pic111.jpg
     alt: "Bahtinur Yilmaz"
     title: "Bahtinur Yilmaz"
@@ -67,7 +74,7 @@ feature_row1:
     excerpt: "<p><b> Thesis Student</b> </p>
     <p>McMaster Biochemistry</p>
     Jessica joined the lab in May 2026 for her undergraduate thesis. She works on establishing spatially controlled activation of FGF signal in zebrafish embryos. Jessica is drawn to how quantitative approaches can illuminate mechanisms of development and disease. Outside the lab, she enjoys skating, crocheting, and reading."
-feature_row2:
+feature_row3:
   - image_path: /assets/images/pic114.jpg
     alt: "Samara Peet"
     title: "Samara Peet"
@@ -80,7 +87,7 @@ feature_row2:
     excerpt: "<p><b> Lab Assistant</b> </p>
     <p>McMaster Biochemistry BDC</p>
     Anderson started in the lab in Fall 2026 as a Lab Assistant. Anderson keeps us organized and in good shape!"
-feature_row3:
+feature_row4:
   - title: "Lab Alumni"
     excerpt: "<p><b>Hamdan Raneef</b></p>
     <p> 2024-2025 Honours Thesis Student </p>
@@ -114,3 +121,5 @@ feature_row3:
 {% include feature_row id="feature_row2" %}
 
 {% include feature_row id="feature_row3" %}
+
+{% include feature_row id="feature_row4" %}
