@@ -87,7 +87,7 @@ feature_row3:
     <p>McMaster Biochemistry BDC</p>
     Anderson started in the lab in Fall 2026 as a Lab Assistant. Anderson keeps us organized and in good shape!"
 feature_row4:
-  - title: "Lab Alumni"
+- title: "Lab Alumni"
     excerpt: "<p><b>Hamdan Raneef</b></p>
     <p> 2024-2025 Honours Thesis Student </p>
     <p>McMaster Biology Molecular Biology and Genetics Specialization</p>
