@@ -1,9 +1,9 @@
 ---
-title: "Lab Members"
-layout: splash
-permalink: /members/
-author_profile: true
-header:
+  title: "Lab Members"
+  layout: splash
+  permalink: /members/
+  author_profile: true
+  header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/pbodslabF2026.jpg
