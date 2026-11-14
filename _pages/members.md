@@ -1,8 +1,8 @@
 ---
 title: "Lab Members"
-layout: splash
-permalink: /members/
-author_profile: true
+  layout: splash
+  permalink: /members/
+  author_profile: true
   header:
   overlay_color: "#000"
   overlay_filter: "0.3"
