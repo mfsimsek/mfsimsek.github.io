@@ -44,18 +44,6 @@ feature_row1:
     <p> McMaster Biology</p>
     Mohammed wrote his Honours Biology thesis on developing an imaging platform for developing zebrafish embryos. He currently pursues a Master's degree in the lab. Mohammed has been active in department's student societies BioSoc and BGSS, and likes to do volunteering in his times outside the lab."
 feature_row2:
-  - image_path: /assets/images/pic107.jpg
-    alt: "Muzainah Majid"
-    title: "Muzainah Majid"
-    excerpt: "<p><b> Thesis Student</b> </p>
-    <p>McMaster Biology</p>
-    Muzainah joined the lab as a volunteer and took a research practicum course in 2025. Being awarded NSERC USRA Summer Fellowship Muzainah continues her research focusing on assessing how vertebrate embryo somites translate into further phenotypes using various molecular tools. She is passionate about pursuing a career in research, and in her free time, you can find her painting or walking along a scenic trail!"  
-  - image_path: /assets/images/pic111.jpg
-    alt: "Bahtinur Yilmaz"
-    title: "Bahtinur Yilmaz"
-    excerpt: "<p><b> Thesis Student</b> </p>
-    <p>McMaster Biology PNB Specialization</p>
-    Bahtinur took a research practicum course in the lab in Fall 2025. This year she returned to write a thesis on quantifying dynamics of the Fgf gradient in zebrafish embryonic tissues. Bahtinur is eager to pursue a career in research. Outside the lab, she enjoys building intricate 3D puzzles."
     - image_path: /assets/images/pic112.jpg
     alt: "Mariesia Y. Singh"
     title: "Mariesia Y. Singh"
