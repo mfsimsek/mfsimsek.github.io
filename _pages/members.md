@@ -6,11 +6,11 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/pbodslabF2026_2.jpg
+  overlay_image: /assets/images/pbodslabF2026.jpg
   actions:
     - label: "pBoDS Lab"
       url: "https://physicalbiology.ca/members"
-      caption: "Fall 2026 lab photo behind the [**Hamilton Hall**] (https://facilities.mcmaster.ca/building/hamilton-hall/)"
+      caption: 'Fall 2026 lab photo behind the [**Hamilton Hall**] (https://facilities.mcmaster.ca/building/hamilton-hall/)'
 feature_row:
   - image_path: assets/images/pic03.jpg
     alt: "M. Fethullah Simsek"
@@ -55,7 +55,7 @@ feature_row1:
     excerpt: "<p><b> Thesis Student</b> </p>
     <p>McMaster Biology PNB Specialization</p>
     Bahtinur took a research practicum course in the lab in Fall 2025. This year she returned to write a thesis on quantifying dynamics of the Fgf gradient in zebrafish embryonic tissues. Bahtinur is eager to pursue a career in research. Outside the lab, she enjoys building intricate 3D puzzles."
-    - image_path: /assets/images/pic112.jpg
+  - image_path: /assets/images/pic112.jpg
     alt: "Mariesia Y. Singh"
     title: "Mariesia Y. Singh"
     excerpt: "<p><b> Thesis Student</b> </p>
