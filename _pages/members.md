@@ -6,11 +6,11 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/pbodslab2025.jpg
+  overlay_image: /assets/images/pbodslabF2026_2.jpg
   actions:
     - label: "pBoDS Lab"
       url: "https://physicalbiology.ca/members"
-      caption: "Fall 2025 Lab photo in front of [**Hamilton Hall**] (https://facilities.mcmaster.ca/building/hamilton-hall/)"
+      caption: "Fall 2026 lab photo behind the [**Hamilton Hall**] (https://facilities.mcmaster.ca/building/hamilton-hall/)"
 feature_row:
   - image_path: assets/images/pic03.jpg
     alt: "M. Fethullah Simsek"
@@ -43,52 +43,74 @@ feature_row1:
     <p><b> M.Sc. Student</b> </p>
     <p> McMaster Biology</p>
     Mohammed wrote his Honours Biology thesis on developing an imaging platform for developing zebrafish embryos. He currently pursues a Master's degree in the lab. Mohammed has been active in department's student societies BioSoc and BGSS, and likes to do volunteering in his times outside the lab."
-  - image_path: /assets/images/pic103.jpg
-    alt: "Ciara Kinsella"
-    title: "Ciara Kinsella"
-    excerpt: "<p><b> Thesis Student</b> </p>
-    <p>McMaster Biology</p>
-    Ciara joined the lab in May 2024 as a recipient of a Summer Research Experience Award. She has loved science since she was a kid and is thrilled to be working on a project exploring the use of pulsate drug treatments to recover somites in clock-mutant embryos. She aims to pursue graduate studies in Molecular Biology and Genetics, and have a career in research."
-  - image_path: /assets/images/pic106.jpg
-    alt: "Russell Beltran"
-    title: "Russell Beltran"
-    excerpt: "<p><b> Thesis Student</b> </p>
-    <p>McMaster Integrated Science (Biology Concentration)</p>
-    Russell joined the lab in Winter 2025 as an independent research project student and now continues his work as fulfillment of his undergraduate thesis. Russell aims to attend graduate school in biophysics or molecular genetics. Outside of school, Russell enjoys reading and loves coffee." 
-  - image_path: /assets/images/pic108.jpg
-    alt: "Shashwati Sanjay"
-    title: "Shashwati Sanjay"
-    excerpt: "<p><b> Thesis Student</b> </p>
-    <p>McMaster Biology</p>
-    Shashwati is in the Molecular Biology & Genetics Research Program at McMaster University. Passionate about both developmental biology and biophysics, she joined the lab as a volunteer. Moving into her thesis project, Shashwati works on the molecular diffusion dynamics in live zebrafish embryos. Outside the lab, she enjoys dancing, baking, and playing video games."
-feature_row2:
   - image_path: /assets/images/pic107.jpg
     alt: "Muzainah Majid"
     title: "Muzainah Majid"
-    excerpt: "<p><b> Undergraduate Student</b> </p>
+    excerpt: "<p><b> Thesis Student</b> </p>
     <p>McMaster Biology</p>
-    Muzainah joined the lab in January 2025 as a volunteer and she currently is a practicum student. Her research focuses on assessing how vertebrate embryo somites translate into further phenotypes using various molecular tools. She is passionate about pursuing a career in research, and in her free time, you can find her painting or walking along a scenic trail!"    
-  - image_path: /assets/images/pic110.jpg
-    alt: "Brooke Bibby"
-    title: "Brooke Bibby"
-    excerpt: "<p><b> Undergraduate Student</b> </p>
-    <p> McMaster Biochemistry</p>
-    Brooke is a third-year student in the Biomedical Discovery and Commercialization program. She joined the lab in the fall of 2025 to conduct an independent research project. Her work focuses on phenotyping changes in somites following application of drugs targeting the ERK signaling pathway. Outside of academics, Brooke enjoys hiking, reading and painting."
+    Muzainah joined the lab as a volunteer and took a research practicum course in 2025. Being awarded NSERC USRA Summer Fellowship Muzainah continues her research focusing on assessing how vertebrate embryo somites translate into further phenotypes using various molecular tools. She is passionate about pursuing a career in research, and in her free time, you can find her painting or walking along a scenic trail!"  
   - image_path: /assets/images/pic111.jpg
     alt: "Bahtinur Yilmaz"
     title: "Bahtinur Yilmaz"
-    excerpt: "<p><b> Undergraduate Student</b> </p>
+    excerpt: "<p><b> Thesis Student</b> </p>
+    <p>McMaster Biology PNB Specialization</p>
+    Bahtinur took a research practicum course in the lab in Fall 2025. This year she returned to write a thesis on quantifying dynamics of the Fgf gradient in zebrafish embryonic tissues. Bahtinur is eager to pursue a career in research. Outside the lab, she enjoys building intricate 3D puzzles."
+    - image_path: /assets/images/pic112.jpg
+    alt: "Mariesia Y. Singh"
+    title: "Mariesia Y. Singh"
+    excerpt: "<p><b> Thesis Student</b> </p>
     <p>McMaster Biology</p>
-    Bahtinur is a third-year Bio-PNB student who joined the lab in 2025 Summer as a research practicum student. Her current research focuses on quantifying dynamics of the fgf gradient in zebrafish embryos. Bahtinur is eager to pursue a career in research. Outside the lab, she enjoys building intricate 3D puzzles."
+    Mariesia joined the lab in Fall 2026 as a thesis student. Mariesia's current research focus is quantifying FGF pathway kinase components in single cell level."  
+  - image_path: /assets/images/pic113.jpg
+    alt: "Najeeb A. Siddiqui"
+    title: "Najeeb A. Siddiqui"
+    excerpt: "<p><b> Thesis Student</b> </p>
+    <p>McMaster Biology MBG Specialization</p>
+    Najeeb joined the lab in September 2026 as a thesis student. His research focuses on the effects of environmental conditions on embryo signalling during segmentation. Outside the lab, Najeeb volunteers at a medical clinic and enjoys drawing and learning to play guitar."
+  - image_path: /assets/images/pic115.jpg
+    alt: "Jessica Li"
+    title: "Jessica Li"
+    excerpt: "<p><b> Thesis Student</b> </p>
+    <p>McMaster Biochemistry</p>
+    Jessica joined the lab in May 2026 for her undergraduate thesis. She works on establishing spatially controlled activation of FGF signal in zebrafish embryos. Jessica is drawn to how quantitative approaches can illuminate mechanisms of development and disease. Outside the lab, she enjoys skating, crocheting, and reading."
+feature_row2:
+  - image_path: /assets/images/pic114.jpg
+    alt: "Samara Peet"
+    title: "Samara Peet"
+    excerpt: "<p><b> Undergraduate Student</b> </p>
+    <p>McMaster Integrated Science Program</p>
+    Samara joined the lab in 2026 Fall as a volunteer. She is keen on learning immunostaining techniques and microscopy!"    
+  - image_path: /assets/images/pic103.jpg
+    alt: "Anderson Lo"
+    title: "Anderson Lo"
+    excerpt: "<p><b> Lab Assistant</b> </p>
+    <p>McMaster Biochemistry BDC</p>
+    Anderson started in the lab in Fall 2026 as a Lab Assistant. Anderson keeps us organized and in good shape!"
 feature_row3:
   - title: "Lab Alumni"
     excerpt: "<p><b>Hamdan Raneef</b></p>
     <p> 2024-2025 Honours Thesis Student </p>
-    <p>McMaster Biology Molecular Biology and Genetics Program</p>
+    <p>McMaster Biology Molecular Biology and Genetics Specialization</p>
     <p></p>
     <p><b> Alina Altinbaeva</b></p>
     <p> 2024-2025 Undergraduate Student </p>
-    <p> McMaster Biochemistry Biomedical Discovery and Commercialization Program</p>"
+    <p> McMaster Biochemistry Biomedical Discovery and Commercialization Program</p>
+    <p></p>
+    <p><b> Russell Beltran</b></p>
+    <p> 2025-2026 Honours Thesis Student </p>
+    <p> McMaster Integrated Sciences Program</p>
+    <p></p>
+    <p><b> Shashwati Sanjay</b></p>
+    <p> 2025-2026 Honours Thesis Student </p>
+    <p> McMaster Biology Molecular Biology and Genetics Specialization</p>
+    <p></p>
+    <p><b> Ciara Kinsella</b></p>
+    <p> 2025-2026 Honours Thesis Student </p>
+    <p> McMaster Biology Molecular Biology and Genetics Co-Op Specialization</p>
+    <p></p>
+    <p><b> Brooke Bibby</b></p>
+    <p> 2025-2026 Undergraduate Student </p>
+    <p> McMaster Biochemistry</p>"
 ---
 
 {% include feature_row type="left" %}
