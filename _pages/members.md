@@ -11,7 +11,7 @@
 - label: "pBoDS Lab"
   url: "https://physicalbiology.ca/members"
   caption: "Fall 2026 lab photo behind the [**Hamilton Hall**] (https://facilities.mcmaster.ca/building/hamilton-hall/)"
-    feature_row:
+feature_row:
   - image_path: assets/images/pic03.jpg
     alt: "M. Fethullah Simsek"
     title: "M. Fethullah Simsek"
@@ -20,7 +20,7 @@
     <p> Department of Biology </p>
     <p> Department of Physics and Astronomy </p>
     Muhammed is a physicist by training from his alma mater Middle East Technical University in Ankara, Turkey. He holds a Ph.D. from Physics Department of University at Buffalo (cell membrane biophysics) and did postdoctoral research at Albert Einstein College of Medicine in Bronx, NY and Cincinnati Children's Hospital (developmental systems biology) before joining McMaster University."
-    feature_row1:
+feature_row1:
     - image_path: /assets/images/pic101.jpg
     alt: "Dila Aycan"
     title: "Dila Aycan"
