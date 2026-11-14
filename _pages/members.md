@@ -1,5 +1,5 @@
 ---
-title: "Lab Members"
+  title: "Lab Members"
   layout: splash
   permalink: /members/
   author_profile: true
