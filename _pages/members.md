@@ -1,4 +1,4 @@
----
+ ---
 title: "Lab Members"
 layout: splash
 permalink: /members/
