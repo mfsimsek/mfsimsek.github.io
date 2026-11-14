@@ -22,6 +22,22 @@ hike2026:
     image_path: /assets/images/hike2026_04q.jpg
     alt: "Spring Lab Hike 04"
     title: "Spring Lab Hike 04"
+  - url: /assets/images/hike2026_05.jpg
+    image_path: /assets/images/hike2026_05q.jpg
+    alt: "Spring Lab Hike 05"
+    title: "Spring Lab Hike 05"
+  - url: /assets/images/hike2026_06.jpg
+    image_path: /assets/images/hike2026_06q.jpg
+    alt: "Spring Lab Hike 06"
+    title: "Spring Lab Hike 06"
+  - url: /assets/images/hike2026_07.jpg
+    image_path: /assets/images/hike2026_07q.jpg
+    alt: "Spring Lab Hike 07"
+    title: "Spring Lab Hike 07"
+  - url: /assets/images/hike2026_08.jpg
+    image_path: /assets/images/hike2026_08q.jpg
+    alt: "Spring Lab Hike 08"
+    title: "Spring Lab Hike 08"
 ---
 
 Spring came a bit late in 2026. We enjoyed Niagara escarpment in this year's waterfall hike which was strenous, but followed by a rewarding tulip garden visit!
