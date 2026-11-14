@@ -12,7 +12,7 @@ actions:
   url: "https://physicalbiology.ca/members"
   caption: "Fall 2026 lab photo behind the [**Hamilton Hall**] (https://facilities.mcmaster.ca/building/hamilton-hall/)"
 feature_row:
-- image_path: assets/images/pic03.jpg
+  - image_path: assets/images/pic03.jpg
     alt: "M. Fethullah Simsek"
     title: "M. Fethullah Simsek"
     excerpt: "<p>mfsimsek @mcmaster.ca</p>
