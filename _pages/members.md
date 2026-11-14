@@ -4,10 +4,10 @@ layout: splash
 permalink: /members/
 author_profile: true
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-    overlay_image: /assets/images/pbodslabF2026.jpg
-    actions:
+overlay_color: "#000"
+overlay_filter: "0.3"
+overlay_image: /assets/images/pbodslabF2026.jpg
+actions:
     - label: "pBoDS Lab"
       url: "https://physicalbiology.ca/members"
       caption: "Fall 2026 lab photo behind the [**Hamilton Hall**] (https://facilities.mcmaster.ca/building/hamilton-hall/)"
