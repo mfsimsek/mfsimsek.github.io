@@ -1,17 +1,17 @@
 ---
-  title: "Lab Members"
-  layout: splash
-  permalink: /members/
-  author_profile: true
-  header:
+title: "Lab Members"
+layout: splash
+permalink: /members/
+author_profile: true
+header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/pbodslabF2026.jpg
-actions:
+  actions:
     - label: "pBoDS Lab"
       url: "https://physicalbiology.ca/members"
       caption: 'Fall 2026 lab photo behind the [**Hamilton Hall**] (https://facilities.mcmaster.ca/building/hamilton-hall/)'
-  feature_row:
+feature_row:
     - image_path: assets/images/pic03.jpg
       alt: "M. Fethullah Simsek"
       title: "M. Fethullah Simsek"
@@ -20,7 +20,7 @@ actions:
       <p> Department of Biology </p>
       <p> Department of Physics and Astronomy </p>
       Muhammed is a physicist by training from his alma mater Middle East Technical University in Ankara, Turkey. He holds a Ph.D. from Physics Department of University at Buffalo (cell membrane biophysics) and did postdoctoral research at Albert Einstein College of Medicine in Bronx, NY and Cincinnati Children's Hospital (developmental systems biology) before joining McMaster University."
-  feature_row1:
+feature_row1:
     - image_path: /assets/images/pic101.jpg
       alt: "Dila Aycan"
       title: "Dila Aycan"
@@ -42,7 +42,7 @@ actions:
       <p><b> M.Sc. Student</b> </p>
       <p> McMaster Biology</p>
       Mohammed wrote his Honours Biology thesis on developing an imaging platform for developing zebrafish embryos. He currently pursues a Master's degree in the lab. Mohammed has been active in department's student societies BioSoc and BGSS, and likes to do volunteering in his times outside the lab."
-  feature_row2:
+feature_row2:
     - image_path: /assets/images/pic107.jpg
       alt: "Muzainah Majid"
       title: "Muzainah Majid"
@@ -73,7 +73,7 @@ actions:
       excerpt: "<p><b> Thesis Student</b> </p>
       <p>McMaster Biochemistry</p>
       Jessica joined the lab in May 2026 for her undergraduate thesis. She works on establishing spatially controlled activation of FGF signal in zebrafish embryos. Jessica is drawn to how quantitative approaches can illuminate mechanisms of development and disease. Outside the lab, she enjoys skating, crocheting, and reading."
-  feature_row3:
+feature_row3:
     - image_path: /assets/images/pic114.jpg
       alt: "Samara Peet"
       title: "Samara Peet"
@@ -86,9 +86,9 @@ actions:
       excerpt: "<p><b> Lab Assistant</b> </p>
       <p>McMaster Biochemistry BDC</p>
       Anderson started in the lab in Fall 2026 as a Lab Assistant. Anderson keeps us organized and in good shape!"
-  feature_row4:
+feature_row4:
     - title: "Lab Alumni"
-      excerpt:"<p><b>Hamdan Raneef</b></p>
+      excerpt: "<p><b>Hamdan Raneef</b></p>
       <p> 2024-2025 Honours Thesis Student </p>
       <p>McMaster Biology Molecular Biology and Genetics Specialization</p>
       <p></p>
